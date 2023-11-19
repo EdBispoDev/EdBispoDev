@@ -43,6 +43,4 @@ I'm Edinaldo Bispo, I'm a Backend developer, studying systems analysis and devel
 <br>
 #
 ![Edinaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=edbispodev&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edbispodev)](https://github.com/edbispodev/github-readme-stats)
 
