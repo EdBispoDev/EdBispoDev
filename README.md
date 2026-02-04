@@ -1,118 +1,257 @@
-# 👨‍💻 Olá, eu sou o Edinaldo Bispo!  
+# 👨‍💻 Edinaldo Bispo — SOC | NOC | Cybersecurity | Networking
 
-🎯 **Cybersecurity Student | Python | AI/ML | Linux | Java | Spring Boot | Cloud & Data**  
+Profissional de Tecnologia da Informação, formado em **Análise e Desenvolvimento de Sistemas (ADS)**, com grande entusiasmo por tecnologia, redes e segurança da informação. Tenho foco em **SOC, NOC e ambientes de operações**, onde considero gratificante atuar na proteção de sistemas, na análise de eventos e na garantia da disponibilidade e segurança das infraestruturas.
 
----
+Estou em constante evolução técnica e prática, com facilidade para aprender novas tecnologias e forte interesse em compreender sistemas em profundidade. Tenho uma postura proativa de aprendizado contínuo e sou motivado pelos desafios da área, buscando sempre aprimorar meus conhecimentos e aplicar boas práticas em cenários reais.
 
-## 🚀 Sobre mim  
-Sou apaixonado por **Tecnologia, Segurança Cibernética, Inteligência Artificial e Dados**.  
-Atualmente estudo e desenvolvo projetos nas áreas de **Cibersegurança, Desenvolvimento, Cloud, Data Science e Arquitetura de Software**.  
+Atualmente participo da **11ª Maratona de CiberEducação da Cisco**, com progressão consistente nas trilhas de **segurança e redes**, além de formação complementar em plataformas como **Udemy**, abrangendo **Blue Team, SecOps, Monitoramento de Segurança** e fundamentos de **programação e automação**, aplicados ao contexto de infraestrutura e cibersegurança.
 
----
-
-## 🛠️ Tecnologias e Ferramentas  
-
-### 🔐 Cybersecurity  
-🛡️ Cybersecurity Student • 🌐 Redes  
+Este repositório centraliza meus **projetos práticos, estudos técnicos, automações, documentações e laboratórios**, todos voltados para ambientes reais de **operações de segurança e redes corporativas**.
 
 ---
 
-### 🐍 Linguagens de Programação  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)  
-![C](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white&style=for-the-badge) *(básico)*
+## Objetivo Profissional
+
+Atuar em ambientes **SOC (Security Operations Center)** e **NOC (Network Operations Center)**, contribuindo com:
+
+- Monitoramento de segurança e redes
+- Detecção e resposta a incidentes
+- Análise de logs e eventos
+- Threat Hunting
+- Hardening e boas práticas de segurança
+- Automação de processos operacionais com Python
+- Observabilidade, visibilidade e confiabilidade de infraestrutura
 
 ---
 
-### ⚙️ Frameworks e Arquitetura  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)  
-📐 **Domain-Driven Design (DDD)**  
-🧩 **Design Patterns**  
+## Formação em Cibersegurança e Redes
+
+### Cisco — 11ª Maratona de CiberEducação
+- ✔️ Gerenciamento de Ameaças (1ª Onda)
+- ✔️ CCNA 1 – Introdução a Redes (2ª Onda)
+- 🔄 Atualmente: **Cisco SecOps Associate** (3ª Onda)
+
+Competências desenvolvidas:
+- Conceitos de SOC e operações de segurança
+- Análise de ameaças e eventos
+- Fundamentos de redes e segurança
+- Monitoramento e resposta a incidentes
 
 ---
 
-### 🗄️ Bancos de Dados  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)  
+### Udemy — Cisco CCNA 200-301 (Concluído)
+Conteúdo estudado e aplicado na prática:
+
+- Interfaces e equipamentos Cisco
+- Roteamento e Switching
+- VLANs e Subnetting
+- QoS
+- Filtragem de tráfego e segurança de redes
+- ACLs (Access Control Lists) — nível avançado
+- Fundamentos de AWS e Azure
+- Conceitos de automação com Python
+- Troubleshooting de redes
+
+Perfil-alvo do curso (atendido):
+- Estudantes CCNA
+- Administradores e engenheiros de redes
+- Profissionais de Helpdesk e Infraestrutura
+- Profissionais focados em ambientes corporativos
+
+---
+### Udemy — Linux Administration & Security (Em andamento)
+
+Curso completo de **Administração de Sistemas Linux com foco em infraestrutura, automação e segurança**, abordando desde configurações básicas até cenários avançados utilizados em ambientes corporativos, SOC e NOC.
+
+**Principais tópicos estudados:**
+
+- Administração de sistemas Linux (Ubuntu, Debian, RHEL, Rocky Linux, Fedora)
+- Gerenciamento de usuários e grupos
+- Gerenciamento de processos e recursos
+- Instalação e gerenciamento de software
+- Configuração de TCP/IP e redes
+- Firewall Linux (iptables / nftables)
+- SELinux
+- Hardening de servidores Linux
+- Políticas de senha e controle de acesso
+- Proteção da conta root e uso avançado de sudo
+- Permissões avançadas, ACLs e atributos de arquivos
+- Servidores e serviços:
+  - DHCP
+  - DNS com BIND9
+  - FTP
+  - Samba
+  - NFS
+  - LAMP (Linux, Apache, MySQL, PHP)
+  - Apache
+- Expressões regulares
+- Shell Script
+- Bancos de dados no Linux (MySQL, MongoDB)
+- Docker no Linux
+- Versionamento com Git
+- Kubernetes
+- Ansible
+- VoIP com Asterisk
+- Monitoramento com Prometheus
+- Infraestrutura como Código com Terraform
+- Práticas de segurança:
+  - Hardening de SSH com fail2ban
+  - Táticas de segurança de rede
+  - Escaneamento de portas e detecção de serviços
+  - Criptografia e segurança de sistemas de arquivos
+  - Trilhas de auditoria e compartilhamento seguro de contas
+
+Curso aplicado com foco em **ambientes reais**, **boas práticas de segurança**, **padronização**, **observabilidade** e **preparação para operações SOC/NOC**.
 
 ---
 
-### 🐳 DevOps & Containers  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
+### Udemy — Wazuh (Em andamento)
+Foco em **SOC, SIEM e Blue Team**:
+
+- Instalação do Wazuh Server
+- Implantação de Agents (Linux e Windows)
+- Coleta e correlação de logs
+- Detecção de malware
+- Integração com:
+  - Sysmon
+  - VirusTotal
+  - AbuseIPDB
+  - Suricata (IDS)
+- Threat Hunting
+- MITRE ATT&CK
+- Monitoramento de vulnerabilidades
+- Automação de resposta a incidentes
+- Monitoramento de ambientes Cloud
+- Boas práticas de segurança operacional
 
 ---
 
-### ☁️ Cloud Computing  
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge)  
+## Conhecimentos Técnicos
+
+### Sistemas Operacionais
+- Linux (nível básico → intermediário)
+  - Administração básica
+  - Logs
+  - Permissões
+  - Serviços
+  - Troubleshooting
 
 ---
 
-### 🖥️ Sistemas Operacionais & Ambiente  
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&style=for-the-badge) 🐧  
+### Redes e Infraestrutura
+- Modelo OSI e TCP/IP
+- VLANs e Subnetting
+- Roteamento e Switching
+- ACLs
+- Monitoramento de redes
+- Conceitos de NOC
+- Diagnóstico e resolução de incidentes de conectividade
 
 ---
 
-### 🎨 Front-End  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
+### Segurança da Informação
+- SOC Operations
+- SIEM
+- Análise de logs
+- Detecção de ameaças
+- Threat Hunting
+- MITRE ATT&CK
+- Hardening
+- Monitoramento contínuo
+- Blue Team mindset
 
 ---
 
-### 📊 Data & Analytics  
-📊 Power BI • 🔎 Web Scraping • 🔄 ETL • 📈 Pipelines  
-📉 **Análise de Dados (Data Analysis)**  
+### Programação e Desenvolvimento
+Base sólida adquirida na graduação em ADS:
+
+- Programação Orientada a Objetos (OOP)
+- Java (conceitos fundamentais)
+- Python (automação, scripts, segurança)
+- Desenvolvimento Web (noções)
+- APIs REST
+- Testes de APIs (Postman, Insomnia)
 
 ---
 
-### 🤖 Inteligência Artificial & Machine Learning  
-🤖 AI/ML  
+### Bancos de Dados
+- SQL:
+  - MySQL
+  - PostgreSQL
+- NoSQL:
+  - MongoDB
 
 ---
 
-### 🕵️‍♂️ Habilidades em Pentest & Cybersecurity (Kali Linux)  
-- 🔍 Fingerprinting & Reconhecimento de Rede (estudo/labs)  
-- 🐍 Python para Hacking (scripts básicos/prática)  
-- 💾 SQL Injection & Teste de BD (conceitos/prática guiada)  
-- 📡 Wi-Fi Hacking (simulações)  
-- ⚡ DoS / Testes de Resiliência (simulações)  
-- 🛠️ Wireshark & NMAP (análise básica/labs)  
-- 🤖 IA aplicada à Segurança (introdução/estudo)  
+### Cloud Computing
+- Conceitos fundamentais de:
+  - AWS
+  - Microsoft Azure
+- Monitoramento e segurança em ambientes cloud (em aprendizado contínuo)
 
 ---
 
-### 🐧 Habilidades em Linux, Redes e DevOps  
-- 🖥️ Administração Linux & Firewalls (conceitos/prática)  
-- 💻 Shell Script / Automação (scripts básicos/labs)  
-- 📂 Samba / Compartilhamento de Arquivos (introdução/prática)  
-- 🗄️ Bancos de Dados (MySQL, PostgreSQL, MongoDB – básico/estudo)  
-- 🐳 Docker & Kubernetes (laboratórios/prática)  
-- ⚙️ Ansible (noções iniciais/automação guiada)  
+### Containers e DevOps
+- Docker (noções básicas)
+- Interesse em automação, observabilidade e integração com segurança (DevSecOps)
 
 ---
 
-## 🌱 Soft Skills & Interesses
-- Gestão de tempo ⏱️  
-- Inglês intermediário 🗣️  
-- Aprendizado contínuo / Autodidatismo 📚  
-- Resolução de problemas e raciocínio lógico 🧠  
-- Trabalho sob pressão / atenção a detalhes ⚡  
-- Adaptação a múltiplas tecnologias 🔧  
-- Trabalho em equipe e colaboração 🤝  
+## Referências Técnicas e Arquiteturais
+
+Estudo contínuo baseado em literatura reconhecida:
+
+- **Arquitetura Limpa** — Robert C. Martin
+- **O Guia do Artesão para Estrutura e Design de Software** — Robert C. Martin
+- **Domain-Driven Design: Alinhando Arquitetura de Software e Estratégia de Negócios** — Vlad Khononov
+
+Esses conceitos influenciam diretamente:
+- Organização de código
+- Boas práticas
+- Qualidade técnica
+- Pensamento sistêmico
+- Engenharia de software aplicada à segurança
 
 ---
 
-## 🏅 Certificações & Badges  
+## Sobre os Projetos neste GitHub
 
-Confira todas as minhas conquistas no **Credly**:  
-👉 [Meu perfil no Credly](https://www.credly.com/users/edinaldo-bispo)
+Você encontrará neste GitHub:
+- Projetos focados em SOC e NOC
+- Ferramentas de análise defensiva
+- Automações com Python
+- Estudos de segurança e redes
+- Laboratórios práticos
+- Documentação técnica
+- Scripts voltados para ambientes reais
+
+Todos os projetos seguem princípios de:
+- Código limpo
+- Boas práticas
+- Segurança
+- Clareza técnica
+- Aprendizado contínuo
 
 ---
 
-⭐ _"Sempre aprendendo, explorando novas tecnologias e aplicando boas práticas de arquitetura e segurança!"_
+## Mentalidade Profissional
+
+- Perfil defensivo e ético
+- Foco em ambientes reais
+- Aprendizado contínuo
+- Disciplina técnica
+- Documentação clara
+- Evolução consistente
+
+---
+
+## Contato
+
+- GitHub: https://github.com/EdBispoDev
+- LinkedIn: (https://www.linkedin.com/in/edinaldo-bispo/)
+
+
+---
+
+> “Segurança não é um produto, é um processo.”  
+> — Bruce Schneier
